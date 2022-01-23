@@ -138,3 +138,27 @@ footer{
         
 }
  }
+
+ @media (min-width: 768px) and (max-width: 1024px){
+    body {
+        font-size: 15px;
+    }
+
+    #blogname{
+        font-size: 25px;
+    }
+
+    .img10{
+        height: 50px;
+        width: 50px;
+        margin-top: 10px;
+    }
+
+    .search{
+        padding: 8px;
+        size: 20;
+        height: 10px;
+        margin-top: 28px;
+        
+}
+ }
